@@ -11,7 +11,7 @@
 using namespace std;
 int main()
 {
-	double a; // вхідний параметр
+	double a; 
 	double z1; // результат обчислення 1-го виразу
 	double z2; // результат обчислення 2-го виразу
 	cout << "a = "; cin >> a;
