@@ -7,6 +7,9 @@
 #include <cmath>
 #include <math.h>
 
+double a;
+double z1;
+double z2;
 
 using namespace std;
 int main()
